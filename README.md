@@ -15,6 +15,8 @@
 
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.07278-red?logo=arxiv" height="14" />  [Retrieval Replace Reduction:An effective visual token reduction method via semantic match](https://arxiv.org/pdf/2410.07278) .[TRSM;]
 
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.04417-red?logo=arxiv" height="14" />  [Sparsevlm: Visual token sparsification for efficient vision-language model inference.](https://arxiv.org/pdf/2410.04417) .[SparseVLM;]
+
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.02745-red?logo=arxiv" height="14" />  [AVG-LLaVA: A Large Multimodal Model with Adaptive Visual Granularity](https://arxiv.org/pdf/2410.02745) .[AVG-LLaVA;[Github](https://github.com/DeepLearnXMU/AVG-LLaVA)]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2409.10994-red?logo=arxiv" height="14" />  [Less is More: A Simple yet Effective Token Reduction Method for Efficient Multi-modal LLMs](https://arxiv.org/pdf/2409.10994) .[TRIM]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2409.03206-red?logo=arxiv" height="14" />  [TC-LLaVA: Rethinking the Transfer from Image to Video Understanding with Temporal Consideration](https://arxiv.org/pdf/2409.03206) .[TC-LLaVA;Video;]
