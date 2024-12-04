@@ -2,6 +2,8 @@
 🔥🔥🔥 A paper list of some recent  works about Token Compress for Vit and VLM.
 ## VLM
 ### 2024
+
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.17686-red?logo=arxiv" height="14" />  [Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration](https://arxiv.org/pdf/2411.17686) .[FiCoCo;]
 - OpenReview [LVP: Language-guide Visual Projector for Efficient Multimodal LLM](https://openreview.net/pdf?id=PxBzxO02Ef).[LVP]
 - OpenReview [Efficient Multi-modal Large Language Models via Visual Token Grouping](https://openreview.net/pdf?id=ym1dS37mZE) .[VisToG]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.15024-red?logo=arxiv" height="14" />  [DyCoke:Dynamic Compression of Tokens for Fast Video Large Language Models](https://arxiv.org/pdf/2411.15024) .[DyCoke;Video;[Github](https://github.com/KD-TAO/DyCoke)]
@@ -34,6 +36,7 @@
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2407.02392-red?logo=arxiv" height="14" />  [TokenPacker: Efficient Visual Projector for Multimodal LLM](https://arxiv.org/abs/2407.02392.pdf) .    [TokenPacker;[Github](https://github.com/CircleRadon/TokenPacker)]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2406.12275-red?logo=arxiv" height="14" />  [VoCo-LLaMA: Towards Vision Compression with Large Language Models](https://arxiv.org/pdf/2406.12275) .    [VoCo-LLaMA;[Github](https://github.com/Yxxxb/VoCo-LLaMA)]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2405.20985-red?logo=arxiv" height="14" />  [DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models](https://arxiv.org/pdf/2405.20985) .    [DeCo;[Github](https://github.com/yaolinli/DeCo)]
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2405.19315-red?logo=arxiv" height="14" />  [Matryoshka Query Transformer for Large Vision-Language Models](https://arxiv.org/pdf/2405.19315) .    [MQT-LLaVA; NeurIPS 2024][Github](https://github.com/gordonhu608/MQT-LLaVA)]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2405.17430-red?logo=arxiv" height="14" />  [Matryoshka Multimodal Models](https://arxiv.org/pdf/2405.17430) .    [Matryoshka;M<sup>3</sup>][Github](https://github.com/mu-cai/matryoshka-mm)]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2404.16821-red?logo=arxiv" height="14" />  [How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites](https://arxiv.org/abs/2404.16821.pdf) .    [InternVL;Pixel-Shuffle;[Github](https://github.com/OpenGVLab/InternVL)]
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2404.08567-red?logo=arxiv" height="14" />  [CATP: Cross-Attention Token Pruning for Accuracy Preserved Multimodal Model Inference](https://arxiv.org/pdf/2404.08567) .    [CATP;]
@@ -51,6 +54,7 @@ Adaptive Token Reduction for Efficient Large Multimodal Models](https://arxiv.or
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2301.12597-red?logo=arxiv" height="14" /> [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597) . [Q-former;[Github](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)]
 ## Vit
 ### 2024
+-  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.00965-red?logo=arxiv" height="14" />  [Token Cropr: Faster ViTs for Quite a Few Tasks](https://arxiv.org/pdf/2412.00965).[Token Cropr;]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2408.17062-red?logo=arxiv" height="14" />  [Vote&Mix: Plug-and-Play Token Reduction for Efficient Vision Transformer](https://arxiv.org/pdf/2408.17062) . [Vote&Mix;]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2408.06798-red?logo=arxiv" height="14" />  [Token Compensator: Altering Inference Cost of Vision Transformer without Re-Tuning](https://arxiv.org/pdf/2408.06798) . [Token Compensator;ToCom;[Github](https://github.com/JieShibo/ToCom)]
 -  <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2408.06840-red?logo=arxiv" height="14" />  [Dynamic and Compressive Adaptation of Transformers From Images to Videos](https://arxiv.org/pdf/2408.06840) . [InTI;]
